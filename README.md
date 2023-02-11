@@ -12,9 +12,7 @@ In this project, time series data on carbon dioxide emissions in North America w
 - Python, Pandas, Matplotlib
 - Jupyter Notebooks
 
-## Results
 
-
-## References
+## Acknowledgments and References
 
 [Modeling and Forecasting of Carbon Dioxide Emissions in Bangladesh Using Autoregressive Integrated Moving Average (ARIMA) Models](https://www.scirp.org/journal/paperinformation.aspx?paperid=78038)
